@@ -6,7 +6,13 @@
 - De Argentina
 - 19 años
 
-#### Gustos y pasatiempos:
+### Preferencias:
 - [x] Programación y tomar mate
 - [x] Amante del Software Libre
 - [x] Aguante Debian + AwesomeWM
+
+### Actualmente:
+- Juego Clash of Clans
+- Soy estudiante
+- Practico mecanografía
+- Me gusta leer cualquier cosa
