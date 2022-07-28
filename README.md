@@ -6,7 +6,7 @@
 
 ### Datos personales:
 - De Argentina
-- 19 años
+- 20 años
 
 ### Preferencias:
 - [x] Programación y tomar mate
@@ -14,7 +14,7 @@
 - [x] Aguante Debian + AwesomeWM
 
 ### Actualmente:
-- Juego Clash of Clans
-- Soy estudiante
-- Practico mecanografía
+- Amante del deporte automotor, en especial la Fórmula 1.
+- Soy estudiante.
+- Practico mecanografía [Perfil de Monkeytype.com](https://monkeytype.com/profile/11RI92Z5kfXXoAZovcw6DY7yZEh2)
 - Me gusta leer cualquier cosa
