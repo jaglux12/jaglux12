@@ -1,4 +1,4 @@
-![RedBull](https://www.unotv.com/uploads/2022/03/f1-2022-calendario-fechas-145410.jpg)
+![RedBull](img_verstappen.png)
 # ¡Bienvenido! :sunny:
 
 > Señor profesor, yo no soy lo que usted llama un hombre civilizado. He roto por completo con toda la sociedad. No obedezco a sus reglas, y usted no tiene el derecho de invocarlas nunca ante mí. 
