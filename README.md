@@ -1,4 +1,4 @@
-![RedBull](img_verstappen.png)
+![RedBull](/img_verstappen.png)
 # ¡Bienvenido! :sunny:
 
 > Señor profesor, yo no soy lo que usted llama un hombre civilizado. He roto por completo con toda la sociedad. No obedezco a sus reglas, y usted no tiene el derecho de invocarlas nunca ante mí. 
