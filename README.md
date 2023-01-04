@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/7FfMZBc0TGrKq9bivj" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mercedesamgf1-7FfMZBc0TGrKq9bivj"></a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7FfMZBc0TGrKq9bivj/giphy.gif" width="500"/>
+</div>
 # ¡Bienvenido! :sunny:
 
 > Señor profesor, yo no soy lo que usted llama un hombre civilizado. He roto por completo con toda la sociedad. No obedezco a sus reglas, y usted no tiene el derecho de invocarlas nunca ante mí. 
