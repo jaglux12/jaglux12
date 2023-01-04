@@ -1,21 +1,12 @@
-![RedBull](https://static.tickets-platform.com/img/pages/39/2131/675/media/3/desktop/image_group-5.jpg?ts=1567174089)
-# ¡Bienvenido! :sunny:
+<h1 align="center">Hola, soy Gonzalo Lopez.</h1>
+<h3 align="center">Apasionado por el desarrollo y la superación personal.</h3>
 
-> Señor profesor, yo no soy lo que usted llama un hombre civilizado. He roto por completo con toda la sociedad. No obedezco a sus reglas, y usted no tiene el derecho de invocarlas nunca ante mí. 
->
-> ***20.000 leguas de viaje submarino - Julio Verne***
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaglux12&label=Profile%20views&color=0e75b6&style=flat" alt="jaglux12" /> </p>
 
-### Datos personales:
-- De Argentina.
-- 20 años.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Preferencias:
-- [x] Programación y tomar mate.
-- [x] Amante del Software Libre.
-- [x] Aguante Debian + AwesomeWM.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-### Actualmente:
-- Amante del deporte automotor, en especial la Fórmula 1.
-- Soy estudiante.
-- Practico mecanografía [Perfil de Monkeytype.com](https://monkeytype.com/profile/11RI92Z5kfXXoAZovcw6DY7yZEh2)
-- Me gusta leer cualquier cosa.
