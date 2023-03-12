@@ -24,7 +24,7 @@
 
 - Amante del deporte automotor, en especial la Fórmula 1.
 - Soy estudiante.
-- [Monkeytype.com](https://monkeytype.com/profile/bananapants87)
+- [Monkeytype.com](https://monkeytype.com/profile/jaglux12)
 - [GoodReads](https://www.goodreads.com/user/show/160767349-gonzalo-lopez)
 
 
